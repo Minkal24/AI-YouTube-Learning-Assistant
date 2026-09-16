@@ -1,0 +1,14 @@
+# Environment
+.venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Learning / unused files
+src/embedding.py
+src/retriever.py
+
+# Old FAISS index
+faiss_index/
