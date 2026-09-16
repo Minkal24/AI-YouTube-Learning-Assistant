@@ -7,10 +7,8 @@ The application extracts the video's transcript, splits it into meaningful chunk
 ---
 
 ## 🚀 Live Demo
-
-🔗 **Coming Soon**
-
-> The application will be deployed using Streamlit Community Cloud.
+🚀 [Try the Live Demo]
+https://ai-youtube-learning-assistant-fhyzdvrzmnrm3daidytsyu.streamlit.app/
 
 ---
 
